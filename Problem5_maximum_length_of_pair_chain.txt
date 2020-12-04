@@ -1,0 +1,4 @@
+Problem 5 Maximum Length of Pair Chain:
+1.	In the problem we are giving pairs where we have to find the longest valid chain of pairs. This means that we have to check whether the values for (a,b) and (c,d) meet the requirements for each of the elements as we go through them.
+2.	An array can be used to store the length of the longest chain at any specific position. This makes it so that any result that has been previously calculated will be already in the array and can be readily accessed by future calculations.
+3.	I first identified what the inputs and outputs are and how they relate to the problem. I had to read the problem several times to make sure I got a good grasp of it. I explored different ways of solving the problem and of what values could be stored in order to solve subtasks that would be useful later on. I looked back on how I could have applied the structures I know and how to recognize similar problems later on.
